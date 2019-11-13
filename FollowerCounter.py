@@ -18,10 +18,10 @@ class FollowerCounter:
         #Add it somewhere, maybe a variable 
         print(element_attribute_value)
 
-        time.sleep(5)
+        time.sleep(3)
         self.browser.close()
 
-    #def cleanUp (self, pattern):
+    ##def cleanUp (self, pattern):
         #Regex for followers
         #re.comppile 
 
